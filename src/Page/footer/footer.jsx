@@ -55,18 +55,17 @@ function Footer() {
                     <li>Network</li>
                 </S.infos>
                 <S.infos>
-                    <h3>Company</h3>
-                    <li>Business</li>
-                    <li>Franchise</li>
-                    <li>Partnership</li>
-                    <li>Network</li>
+                    <h3>About Us</h3>
+                    <li>Blogs</li>
+                    <li>Security</li>
+                    <li>Careers</li>
                 </S.infos>
                 <S.infos>
-                    <h3>Company</h3>
-                    <li>Business</li>
-                    <li>Franchise</li>
-                    <li>Partnership</li>
-                    <li>Network</li>
+                    <h3>Contact</h3>
+                    <li>Contact Us</li>
+                    <li>Privacy Policy</li>
+                    <li>Terms & Conditions</li>
+                    <li>BMI Calculator</li>
                 </S.infos>
             </S.divInfos>
         </S.footerBody>
