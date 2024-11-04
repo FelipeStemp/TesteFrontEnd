@@ -5,7 +5,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: column;
-margin: 10vw 0;
+padding: 10vh 0 0;
 gap: 3vw;
 `
 

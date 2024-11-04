@@ -4,7 +4,7 @@ export const bodyHome = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-margin: 10vw 0;
+padding: 20vh 0 0;
 `
 
 export const contentHome = styled.div`

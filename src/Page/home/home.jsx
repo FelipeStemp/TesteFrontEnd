@@ -1,12 +1,10 @@
 import ButtonAll from '../../components/button/button'
-import NavBar from '../../components/navBar/nav'
 import imagenHome from '../../assets/image/header.png'
 import * as S from './style'
 
 function Home() {
     return (
         <S.bodyHome>
-            <NavBar />
             <S.contentHome>
                 <S.conteudo style={{display: 'flex', }}>
                     <S.titulo>BEST FITNESS IN THE TOWN</S.titulo>

@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const bodyClass = styled.div`
 display: flex;
 justify-content: center;
-margin: 10vw 0;
+padding: 20vh 0 0;
 gap: 2vw;
 `
 export const conteudo = styled.div`

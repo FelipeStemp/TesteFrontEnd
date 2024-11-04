@@ -6,7 +6,7 @@ justify-content: center;
 align-items: center;
 flex-direction: column;
 gap: 10px;
-margin: 10vw 0;
+padding: 20vh 0 0;
 `
 
 export const divTitulo = styled.div`
