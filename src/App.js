@@ -70,7 +70,7 @@ function App() {
         <ButtonAll onClick={() => scrollToSection(joinUsRef)}>Join Now</ButtonAll>
       </NavBody>
 
-      {/* Adicionando referências aos componentes */}
+
       <div ref={homeRef}><Home /></div>
       <div ref={programRef}><Program /></div>
       <div ref={classGetRef}><ClassGet /></div>
